@@ -369,16 +369,6 @@
     <Content Include="Views\Orders\Details.cshtml" />
     <Content Include="Views\Orders\Edit.cshtml" />
     <Content Include="Views\Orders\Index.cshtml" />
-    <Content Include="Views\Analytics\Create.cshtml" />
-    <Content Include="Views\Analytics\Delete.cshtml" />
-    <Content Include="Views\Analytics\Details.cshtml" />
-    <Content Include="Views\Analytics\Edit.cshtml" />
-    <Content Include="Views\Analytics\Index.cshtml" />
-    <Content Include="Views\Analytics\BarChart.cshtml" />
-    <Content Include="Views\Analytics\data.tsv" />
-    <Content Include="Views\Analytics\Test.cshtml" />
-    <Content Include="Views\Analytics\Pie1.cshtml" />
-    <Content Include="Views\Analytics\Pie2.cshtml" />
     <Content Include="Views\Manage\GuestIndex.cshtml" />
   </ItemGroup>
   <ItemGroup>
@@ -447,7 +437,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>20036</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:8089/</IISUrl>
+          <IISUrl>http://localhost:8090/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

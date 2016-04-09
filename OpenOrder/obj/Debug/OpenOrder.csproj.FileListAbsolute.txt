@@ -115,6 +115,7 @@ C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-ma
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\bin\System.Web.WebPages.Razor.xml
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\bin\Antlr3.Runtime.pdb
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\bin\EntityFramework.xml
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\bin\EntityFramework.SqlServer.xml
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\bin\Microsoft.AspNet.Identity.Core.xml
@@ -144,5 +145,4 @@ C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-ma
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\obj\Debug\OpenOrder.csproj.GenerateResource.Cache
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\obj\Debug\OpenOrder.dll
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\obj\Debug\OpenOrder.pdb
-C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\bin\Antlr3.Runtime.pdb
 C:\Users\Daniel\Documents\Entrevistas\Software estrategico\OpenOrderFramework-master\OpenOrderFramework-master\OpenOrder\obj\Debug\OpenOrder.csprojResolveAssemblyReference.cache

@@ -9,7 +9,7 @@ using OpenOrder.Controllers;
 
 namespace OpenOrder.Tests.Controllers
 {
-    [TestClass]
+   /* [TestClass]
     public class HomeControllerTest
     {
         [TestMethod]
@@ -49,6 +49,6 @@ namespace OpenOrder.Tests.Controllers
 
             // Assert
             Assert.IsNotNull(result);
-        }
+        }*/
     }
 }
